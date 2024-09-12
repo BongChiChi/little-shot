@@ -70,9 +70,12 @@ a {
     color:#f9faf8;
     font-weight: bolder;
     font-size: 48px;
+    max-width: 300px;
 }
 
 .middle {
     min-width: 200px;
+    color: #e5e7eb;
+    font-size: 18px;
+    max-width: 396px;
 }
-...
